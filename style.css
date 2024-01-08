@@ -114,9 +114,15 @@ button:focus-visible {
 }
 .row-items-info {
 width: 500px;
+gap: 8px;
 }
 .row-items-info h2{
   font-weight: 600;
     font-size: 36px;
+}
+.row-items-info a {
+  font-size: 18px;
+  background-color: #FF6464;
+  color: #fff;
 }
 
